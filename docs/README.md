@@ -33,7 +33,7 @@ The goal is to build an AI-powered sales forecasting system that predicts future
 ---
 
 ## 📂 Project Structure
-text
+```text
 FUTURE_ML_01/
 │
 ├── code/                 # Python forecasting scripts
@@ -50,7 +50,7 @@ FUTURE_ML_01/
 │
 ├── docs/                 # Documentation
 │   └── README.md
-
+```
 
 ---
 
